@@ -225,6 +225,8 @@ This project is inspired from [PhotoEditorSDK](https://github.com/eventtus/photo
 If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of ☕️
 [PayPal](https://www.paypal.me/burhanrashid52)
 
+https://forum.xda-developers.com/android/general/info-android-device-partitions-basic-t3586565
+
 ## MIT License
 
 Copyright (c) 2018 Burhanuddin Rashid
